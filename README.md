@@ -5,3 +5,5 @@ So, the elephant is more offensive, it has psychological terror vibes, to panic 
 
 How is this more chaturanga-ish? :-
 Since this game was made in the Gupta empire, we can see their real use of elephants to tell the move in chaturanga, elephants were offensive, they had armour so that they couldn't be easily captured, and, enemy soldiers that saw elephants first time in war(or not always first, but the size of elephants) got scared, and, when they heard the sounds of elephants, they were even more scared, so, this is my way of making this elephant move in chaturanga, I hope it is fun :)
+
+And btw, the promotion of pawns(soldiers) are not forced councellers(mantri), the promotion is depending on the file, if our pawn promoted in the file where our knight started at the bottom, then the pawn promotes to a knight, like that for all other pieces, and, the terms ferz and alfil are not chaturanga, they are shatranj, the terms for chaturanga for those are mantri and gaja.
