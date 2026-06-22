@@ -1,2 +1,7 @@
 # Yodha-Gaja-Chaturanga
 This is a version of chaturanga fixing the elephant(gaja) move, because games nowdays use shatranj moves, which isn't chaturanga, I wanna make it more chaturanga-ish.
+
+So, the elephant is more offensive, it has psychological terror vibes, to panic opponents, and, it can't easily be captured, so, since it is slow, it has to move slow in the grid also, the slowest is 1 square, so, it moves and captures exactly like a king, and, it's 1 square all sides and corner radius forces opponent pieces to move out of it, but, if there are 2 pieces there, atleast one of them has to move away, but, if there are 3 pieces or more there, then, one of them can capture the elephant(but all of those 3 pieces should be able to capture the elephant from their standard moves), If an opponent piece is stuck or can't move from the elephant's one square radius, then, movement of that piece is not forced, however, if there is another piece there that can move, it must move out of the radius.
+
+How is this more chaturanga-ish? :-
+Since this game was made in the Gupta empire, we can see their real use of elephants to tell the move in chaturanga, elephants were offensive, they had armour so that they couldn't be easily captured, and, enemy soldiers that saw elephants first time in war(or not always first, but the size of elephants) got scared, and, when they heard the sounds of elephants, they were even more scared, so, this is my way of making this elephant move in chaturanga, I hope it is fun :)
