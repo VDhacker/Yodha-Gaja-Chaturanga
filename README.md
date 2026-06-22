@@ -1,9 +1,54 @@
 # Yodha-Gaja-Chaturanga
-This is a version of chaturanga fixing the elephant(gaja) move, because games nowdays use shatranj moves, which isn't chaturanga, I wanna make it more chaturanga-ish.
 
-So, the elephant is more offensive, it has psychological terror vibes, to panic opponents, and, it can't easily be captured, so, since it is slow, it has to move slow in the grid also, the slowest is 1 square, so, it moves and captures exactly like a king, and, it's 1 square all sides and corner radius forces opponent pieces to move out of it, but, if there are 2 pieces there, atleast one of them has to move away, but, if there are 3 pieces or more there, then, one of them can capture the elephant(but all of those 3 pieces should be able to capture the elephant from their standard moves), If an opponent piece is stuck or can't move from the elephant's one square radius, then, movement of that piece is not forced, however, if there is another piece there that can move, it must move out of the radius, but, the exception is realistic: elephants are not scared of elephants therefore they don't need to move out of the radius, infact they can capture the other elephant without any support of other 2 pieces.
+A historically conscious variant of Chaturanga designed to restore the true power, flavor, and psychological terror of the Ancient Indian war elephant (*Gaja*), moving away from the watered-down mechanics of later Persian *Shatranj*.
 
-How is this more chaturanga-ish? :-
-Since this game was made in the Gupta empire, we can see their real use of elephants to tell the move in chaturanga, elephants were offensive, they had armour so that they couldn't be easily captured, and, enemy soldiers that saw elephants first time in war(or not always first, but the size of elephants) got scared, and, when they heard the sounds of elephants, they were even more scared, so, this is my way of making this elephant move in chaturanga, I hope it is fun :)
+---
 
-And btw, the promotion of pawns(soldiers) are not forced councellers(mantri), the promotion is depending on the file, if our pawn promoted in the file where our knight started at the bottom, then the pawn promotes to a knight, like that for all other pieces, and, the terms ferz and alfil are not chaturanga, they are shatranj, the terms for chaturanga for those are mantri and gaja.
+## 🐘 The Problem with Modern "Chaturanga"
+Most modern digital or tabletop adaptations of Chaturanga lazily copy the rules of **Shatranj**, using terms like *Alfil* and *Ferz* and giving the elephant a weak, two-square diagonal jump. 
+
+In the Gupta Empire, elephants were the ultimate weapon:
+* They were **offensive powerhouses**.
+* They wore **heavy armor**, making them nearly impossible for a single soldier to take down.
+* They caused **immense psychological panic**; enemy troops who had never seen or heard an elephant would scatter in terror.
+
+**Yodha-Gaja-Chaturanga** fixes this by introducing the **Terror Radius** and realistic battlefield physics.
+
+---
+
+## ⚔️ New Piece Rules
+
+### 1. The Gaja (Elephant)
+The Gaja is a slow, terrifying tank. It moves and captures **exactly like a Raja (King)**—one square in any direction (orthogonal or diagonal). Because of its size and armor, it commands a **1-Square Terror Radius** affecting all adjacent squares.
+
+#### 🌀 The Terror Radius (Forced Movement)
+When an opponent's piece enters or finds itself within the Gaja's 1-square radius, panic ensues:
+* **If 1 enemy piece is in the radius:** It is gripped by terror and **must** move out of the radius on the opponent's next turn.
+* **If 2 enemy pieces are in the radius:** The panic is slightly managed, but **at least one** of them must use their turn to flee the radius.
+* **If 3 or more enemy pieces are in the radius:** They gain safety in numbers. They are no longer forced to flee, and **one of them may capture the Gaja** (provided *all three* pieces currently have the Gaja in their standard legal attack vectors).
+
+#### 🛑 Radius Exceptions
+* **Stuck Pieces:** If an enemy piece is completely trapped by other pieces or the edge of the board and *cannot* legally move out of the radius, its movement is not forced. However, if there is another piece in the radius that *can* move, that piece must flee.
+* **Elephant vs. Elephant:** A Gaja does not fear another Gaja. Elephants completely ignore the Terror Radius of an opposing Gaja and can solo-capture each other normally if within range.
+
+---
+
+## ♟️ Historical Promotion & Terminology
+
+### File-Dependent Promotion
+Unlike modern chess where a pawn always becomes a Queen, the promotion of a **Padati (Soldier)** depends entirely on the file (column) it reaches at the end of the board:
+* If a Padati promotes on the file where your **Ashva (Knight)** started, it promotes into an Ashva.
+* This applies to all files respectively, forcing deep strategic planning based on where you push your infantry.
+
+| Chaturanga Term (Sanskrit)
+| **Ratha** - Rook
+| **Ashva** - Knight
+| **Gaja** - Elephant
+| **Mantri** - counceller/minister
+| **Raja** - King
+| **Padati** - Soldier
+
+---
+
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
